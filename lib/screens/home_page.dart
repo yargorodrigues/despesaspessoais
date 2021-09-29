@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:despesaspessoais/components/chart.dart';
+import 'package:despesaspessoais/components/Chart/chart.dart';
 import 'package:despesaspessoais/components/transactions/transaction_form.dart';
 import 'package:despesaspessoais/components/transactions/transaction_list.dart';
 import 'package:despesaspessoais/models/transactions.dart';
