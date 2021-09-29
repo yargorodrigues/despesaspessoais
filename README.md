@@ -1,6 +1,6 @@
 # despesaspessoais
 
-agenda de despesas pessoais
+App em Flutter de controle de despesas pessoais semanais.
 
 ## Getting Started
 
